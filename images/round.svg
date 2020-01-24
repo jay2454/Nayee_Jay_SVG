@@ -10,6 +10,10 @@
 	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#E6E6E5;}
 	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#2E2E2C;}
+
+#round_1_:hover #mouth {fill: red;}
+
+
 </style>
 <g id="round">
 	<path class="st0" d="M129.6,0c71.6,0,129.6,58.04,129.6,129.61c0,29.88-10.09,57.4-27.08,79.34c13.08,4.23,22.58,16.55,22.58,31.08

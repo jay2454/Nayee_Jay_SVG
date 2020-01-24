@@ -11,6 +11,10 @@
 	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#532A12;}
 	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:#E6E6E5;}
+
+#lazy_x5F_green:hover #eye_x5F_1 {fill: red;}
+
+
 </style>
 <g id="lazy_x5F_green_1_">
 	<path class="st0" d="M135.85,293.55c54.67,0,98.99,4.05,98.99,9.02c0,5.01-44.32,9.06-98.99,9.06c-54.68,0-98.99-4.05-98.99-9.06

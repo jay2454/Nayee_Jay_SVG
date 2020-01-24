@@ -11,6 +11,11 @@
 	.st5{fill:#BDBAC0;}
 	.st6{fill:#5A5A5C;}
 	.st7{opacity:0.55;fill:#E0ECF7;}
+
+
+#yellow:hover #face {fill: red;}
+
+
 </style>
 <g id="yellow_1_">
 	<g>
