@@ -8,6 +8,11 @@
 	.st2{fill:#FFFFFF;}
 	.st3{fill:#D5DAEE;}
 	.st4{fill:#608F9A;}
+
+#blue:hover #body {fill: yellow;}
+
+
+
 </style>
 <g id="blue_1_">
 	<g>

@@ -11,6 +11,11 @@
 	.st5{fill:#E84753;}
 	.st6{fill:#751116;}
 	.st7{fill:#F3BCC2;}
+
+#red:hover #tounge {fill: yellow;}
+
+
+
 </style>
 <g id="red_1_">
 	<path class="st0" d="M0.53,165.49l5.49-22l1.51,17.19c0.75,8.44,7.47,15.12,15.92,15.82l26.1,2.14l-16.61-25.83
